@@ -2,7 +2,7 @@
 
 Play Games with:
 - better Ping
-- Mous accelation
+- mouse acceleration
 - Better Keys
 
 
